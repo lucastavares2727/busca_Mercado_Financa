@@ -1,0 +1,3 @@
+Este codigo foi faz com que voce pesquisa o ticker{codigo de finança que estar armazenado na variavel COD} de varias empresas.
+Ao inserir o cdigo, e informar qual periodo desejado(no caso do codigo seria os ultimos 6 meses).
+No codigo eu usei o codigo da petrobras, PETR4.SA, ao digitar esse ticker, ele ira realizar uma pesquisa para trazer os dados dessa empresa, voce  tambem pode conferir/validar os dados no yahoo finace(pesquisa no google que e clilca na primeira aba), la voce pode inserir qualquer ticker quie voce desejar e ter retorno de todos os dados, tanto o valor minimo de cada ação, media ou maximo.
